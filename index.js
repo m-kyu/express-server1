@@ -10,6 +10,6 @@ app.use(bodyParser.json())
 app.get('/',async function (req, res) {
     res.send('Hello~~~~~')  
 })
-app.listen(3000)
+app.listen(8888)
  
 
